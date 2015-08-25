@@ -1,4 +1,4 @@
 # hello-world
-My first repository changes
+My first repository
 This is my first change
 Something from Intellij IDEA
