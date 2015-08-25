@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+The first string
+The second string
